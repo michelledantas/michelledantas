@@ -2,7 +2,8 @@
 
 <h1 align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead)
 
