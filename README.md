@@ -3,7 +3,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical)
-<img height="tamanho+em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=include_all_commits=true&count_private=true"/>
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&layout=compact&langs_count=7&theme=radical"/>
 </div>
