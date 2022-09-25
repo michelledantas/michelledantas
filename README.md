@@ -3,6 +3,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas&hide=contribs,prs)
+
 
 - 🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead)
 
