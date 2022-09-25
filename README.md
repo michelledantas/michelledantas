@@ -3,9 +3,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical)
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&layout=compact&langs_count=7&theme=radical"/>
+
 - 🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead)
 
 - 👯 I’m looking to collaborate on [Prova_php](https://github.com/gabrieleksilva/prova_php)
