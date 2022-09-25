@@ -1,6 +1,6 @@
 ![github](https://user-images.githubusercontent.com/88847876/192169527-65156dce-82d7-4ef8-b925-f3929fcb560f.gif)
 
-<h1 align="center">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical)
 
