@@ -3,7 +3,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=radical"/>
 
 - 🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead)
 
