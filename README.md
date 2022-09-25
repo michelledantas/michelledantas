@@ -1,5 +1,6 @@
-<h1 align="center">![github](https://user-images.githubusercontent.com/88847876/192169527-65156dce-82d7-4ef8-b925-f3929fcb560f.gif)
+![github](https://user-images.githubusercontent.com/88847876/192169527-65156dce-82d7-4ef8-b925-f3929fcb560f.gif)
 
+<h1 align="center">
 
 - 🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead)
 
