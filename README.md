@@ -1,8 +1,13 @@
+
+
 ![github](https://user-images.githubusercontent.com/88847876/192169527-65156dce-82d7-4ef8-b925-f3929fcb560f.gif)
 
+<div align="center">
+  <a href="https://github.com/michelledantas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical) <img height="tamanho+em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=radical"/>
 
 - 🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead)
 
@@ -10,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michelle-dantas-luiz-tiburcio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michelle-dantas-luiz-tiburcio/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/michelle-dantas-luiz-tiburcio/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michelle-dantas-luiz-tiburcio/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
