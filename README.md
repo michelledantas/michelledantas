@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead)
 
 - 👯 I’m looking to collaborate on [Prova_php](https://github.com/gabrieleksilva/prova_php)
+- 👯 I’m looking to collaborate on [MapeandoEmailsComCollections]([https://github.com/gabrieleksilva/prova_php](https://github.com/Samila23/Mapeando-e-mails-com-Collections))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
