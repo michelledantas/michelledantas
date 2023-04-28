@@ -1,21 +1,21 @@
 
-
  ![github](https://user-images.githubusercontent.com/88847876/192169527-65156dce-82d7-4ef8-b925-f3929fcb560f.gif)
 
 
 <div Align="justify">
   <a href="https://github.com/michelledantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
 🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead) <br>
  
 I collaborated on the projects: <br>
-  - 👯 [Prova_php](https://github.com/gabrieleksilva/prova_php)
-  - 👯 [MapeandoEmailsComCollections](https://github.com/Samila23/Mapeando-e-mails-com-Collections)
-
+  - 👯 [Prova em dupla PHP](https://github.com/gabrieleksilva/prova_php)
+  - 👯 [Mapeando emails com Collections](https://github.com/Samila23/Mapeando-e-mails-com-Collections)
+  - 👯 [Microservice Delivery](https://github.com/Leticia-Viana/microsservices-delivery)
+  - 👯 [Microservice ADA](https://github.com/Leticia-Viana/Microsservices-Ada)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
