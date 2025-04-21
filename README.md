@@ -17,11 +17,6 @@ I collaborated on the projects: <br>
   - 👯 [Microservice Delivery](https://github.com/Leticia-Viana/microsservices-delivery)
   - 👯 [Microservice ADA](https://github.com/Leticia-Viana/Microsservices-Ada)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michelle-dantas-luiz-tiburcio/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michelle-dantas-luiz-tiburcio/" height="40" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
