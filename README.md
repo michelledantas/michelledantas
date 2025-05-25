@@ -1,21 +1,27 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+## Hello, Devs!! 👋
+
+### My name is Michelle, Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- 🔰 I´m from São Carlos/SP, Brazil
+- 🧠 Student of Systems Analysis and Development at the Federal Institute of São Paulo.
+- 🏦 Currently, I work as a Developer at F1rst Digital Services (a Santander affiliate).
+
+##
 
  ![github](https://user-images.githubusercontent.com/88847876/192169527-65156dce-82d7-4ef8-b925-f3929fcb560f.gif)
 
+Statistics:
 
-<div Align="justify">
+<div>
   <a href="https://github.com/michelledantas">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=radical"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelledantas&layout=compact&langs_count=7&theme=radical"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=michelledantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=michelledantas&amp;theme=radical">
+  </a>
 </div>
 
-
-🔭 I’m currently working on [microservices-sistem-ead](https://github.com/michelledantas/microservices-sistem-ead) <br>
- 
-I collaborated on the projects: <br>
-  - 👯 [Prova em dupla PHP](https://github.com/gabrieleksilva/prova_php)
-  - 👯 [Mapeando emails com Collections](https://github.com/Samila23/Mapeando-e-mails-com-Collections)
-  - 👯 [Microservice Delivery](https://github.com/Leticia-Viana/microsservices-delivery)
-  - 👯 [Microservice ADA](https://github.com/Leticia-Viana/Microsservices-Ada)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -41,4 +47,13 @@ I collaborated on the projects: <br>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
 
+##
 
+#### Como entrar em contato comigo:
+
+<div>
+<a href="https://www.linkedin.com/in/michelle-dantas-luiz-tiburcio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+<a href ="mailto:michelledantasluiz@gmail.com"><img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" target="_blank"></a>
+</div>
+
+##
