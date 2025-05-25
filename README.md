@@ -6,7 +6,7 @@
 
 - 🔰 I´m from São Carlos/SP, Brazil
 - 🧠 Student of Systems Analysis and Development at the Federal Institute of São Paulo.
-- 🏦 Currently, I work as a Developer at F1rst Digital Services (a Santander affiliate).
+- 🏦 Currently, I work as a Developer at F1rst Digital Services (Santander group).
 
 ## 🏅 Certification
 **AWS Certified Cloud Practitioner**  
