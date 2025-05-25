@@ -8,10 +8,13 @@
 - 🧠 Student of Systems Analysis and Development at the Federal Institute of São Paulo.
 - 🏦 Currently, I work as a Developer at F1rst Digital Services (a Santander affiliate).
 
+## 🏅 Certification
+**AWS Certified Cloud Practitioner**  
+Issued by Amazon Web Services (AWS)  
+[Credential ID](https://www.credly.com/badges/9ac5a712-dcf1-40c0-8b86-7eab5c046179/linked_in?t=s0xgkq)
+Date: September 12, 2023
+
 ##
-
- ![github](https://user-images.githubusercontent.com/88847876/192169527-65156dce-82d7-4ef8-b925-f3929fcb560f.gif)
-
 Statistics:
 
 <div>
