@@ -13,6 +13,10 @@
 Issued by Amazon Web Services (AWS)  
 [Credential ID](https://www.credly.com/badges/9ac5a712-dcf1-40c0-8b86-7eab5c046179/linked_in?t=s0xgkq)
 Date: September 12, 2023
+<div>
+  <img loading="lazy" height="180em" src="aws-certified.png"
+</div>
+
 
 ##
 Statistics:
