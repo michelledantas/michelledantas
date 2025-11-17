@@ -5,7 +5,7 @@
 ### My name is Michelle, Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰 I´m from São Carlos/SP, Brazil
-- 🧠 Student of Systems Analysis and Development at the Federal Institute of São Paulo.
+- 🧠 Postgraduate student in Software Architecture at FIAP.
 - 🏦 Currently, I work as a Developer at F1rst Digital Services (Santander group).
 
 ## 🏅 Certification
